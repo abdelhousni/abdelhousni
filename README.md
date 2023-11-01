@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working for [@Etnic](https://etnic.be) as Linux System Administrator.
 
-Contact me : [![Linkedin Badge](https://img.shields.io/badge/abdelhousni-0A66C2?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&link=https://www.linkedin.com/in/abdelhousni/)](https://www.linkedin.com/in/abdelhousni/)
+I'm certified also <br/> ![Red Hat Certified System Administrator (RHCSA)](https://github.com/abdelhousni/abdelhousni/blob/main/red-hat-certified-system-administrator-rhcsa.png?raw=true)
+
+To reach me : [![Linkedin Badge](https://img.shields.io/badge/abdelhousni-0A66C2?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&link=https://www.linkedin.com/in/abdelhousni/)](https://www.linkedin.com/in/abdelhousni/)
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdelhousni&show_icons=true&count_private=true&custom_title=Github%20Stats&theme=dracula&include_all_commits=true">
