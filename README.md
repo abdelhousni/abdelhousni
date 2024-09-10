@@ -21,8 +21,7 @@ I'm also certified in :<br/>
 To reach me : <!--<a href="https://qr.link/1CdmQa"><img src="https://github.com/abdelhousni/abdelhousni/assets/23284113/4e3182be-8d4a-4c63-a4e5-fd12e13fa45d" width="128" title="https://www.linkedin.com/in/abdelhousni/"/></a>-->
 [![Linkedin Badge](https://img.shields.io/badge/abdelhousni-0A66C2?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&link=https://www.linkedin.com/in/abdelhousni/)](https://www.linkedin.com/in/abdelhousni/)
 <br>
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdelhousni&show_icons=true&count_private=true&custom_title=Github%20Stats&theme=dracula&include_all_commits=true">
 </p>
-
-
+-->
