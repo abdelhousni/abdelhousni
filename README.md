@@ -23,12 +23,28 @@ I'm also certified in :<br/>
 
 ### Recent releases
 <!-- recent_releases starts -->
+[Shell-Scripts test](https://github.com/abdelhousni/Shell-Scripts/releases/tag/test) - 2020-10-10
 <!-- recent_releases ends -->
 More [releases](https://github.com/abdelhousni?tab=repositories)
 </td><td valign="top" width="50%">
 
 ### TIL
 <!-- tils starts -->
+[NixOS on WSL2: a short admin runbook, and the files WSL manages instead of NixOS](https://abdelhousni.github.io/til/nixos/nixos-wsl-admin-runbook.html) - 2026-09-25
+
+[First steps on NixOS: the whole system is one file, and every change is a boot entry](https://abdelhousni.github.io/til/nixos/first-steps-configuration-generations-rollback.html) - 2026-09-25
+
+[What Ansible Vault actually encrypts, and where that protection stops](https://abdelhousni.github.io/til/ansible/what-ansible-vault-actually-encrypts.html) - 2026-09-24
+
+[Terraform state locking just dropped its DynamoDB requirement](https://abdelhousni.github.io/til/terraform/state-locking-inspection-refactoring-drift.html) - 2026-09-23
+
+[What Terraform/OpenTofu, Nomad, and Packer are, and how they relate](https://abdelhousni.github.io/til/terraform/terraform-opentofu-nomad-packer-how-they-relate.html) - 2026-09-23
+
+[Pointing Podman at an Artifactory mirror without editing a single image name](https://abdelhousni.github.io/til/podman/artifactory-as-a-pull-through-mirror.html) - 2026-09-21
+
+[Auto-updating the Caddy/Adminer/PHP Quadlet stack needs more than one AutoUpdate key](https://abdelhousni.github.io/til/podman/quadlet-autoupdate-caddy-adminer-php.html) - 2026-09-21
+
+[Debugging a Proxmox VM whose cloud-init config didn't apply](https://abdelhousni.github.io/til/proxmox/debugging-cloud-init-on-first-boot.html) - 2026-09-20
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://abdelhousni.github.io/til/)
 </td></tr></table>
