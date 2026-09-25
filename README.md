@@ -23,6 +23,8 @@ I'm also certified in :<br/>
 
 ### Recent releases
 <!-- recent_releases starts -->
+[abdelhousni v1.0](https://github.com/abdelhousni/abdelhousni/releases/tag/v1.0) - 2026-09-25
+
 [Shell-Scripts test](https://github.com/abdelhousni/Shell-Scripts/releases/tag/test) - 2020-10-10
 <!-- recent_releases ends -->
 More [releases](https://github.com/abdelhousni?tab=repositories)
