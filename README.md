@@ -23,7 +23,21 @@ I'm also certified in :<br/>
 
 ### Recent releases
 <!-- recent_releases starts -->
-[Shell-Scripts test](https://github.com/abdelhousni/Shell-Scripts/releases/tag/test) - 2020-10-10
+PR [abdelhousni/abdelhousni#1](https://github.com/abdelhousni/abdelhousni/pull/1) Add self-updating Recent releases / TIL table (merged) - 2026-09-25
+
+PR [abdelhousni/til#87](https://github.com/abdelhousni/til/pull/87) docs: add TIL runbook for NixOS on WSL2 with NixOS-WSL (merged) - 2026-09-25
+
+PR [abdelhousni/til#86](https://github.com/abdelhousni/til/pull/86) docs: add TIL on first steps with NixOS (merged) - 2026-09-25
+
+PR [abdelhousni/til#85](https://github.com/abdelhousni/til/pull/85) style: give tables real borders, header shading, and zebra striping (merged) - 2026-09-23
+
+PR [abdelhousni/til#83](https://github.com/abdelhousni/til/pull/83) docs: add TIL on what Ansible Vault actually encrypts, and where that stops (merged) - 2026-09-23
+
+PR [abdelhousni/til#61](https://github.com/abdelhousni/til/pull/61) docs: add TIL on Terraform state locking, inspection, and refactoring (merged) - 2026-09-23
+
+PR [abdelhousni/til#82](https://github.com/abdelhousni/til/pull/82) docs: add TIL on using Artifactory as a pull-through mirror for Podman (merged) - 2026-09-21
+
+PR [abdelhousni/til#75](https://github.com/abdelhousni/til/pull/75) docs: add TIL on Podman Quadlet auto-update, illustrated on the Caddy/Adminer/PHP stack (merged) - 2026-09-21
 <!-- recent_releases ends -->
 More [releases](https://github.com/abdelhousni?tab=repositories) and [pull requests](https://github.com/pulls?q=is%3Apr+author%3Aabdelhousni+is%3Aclosed)
 </td><td valign="top" width="50%">
