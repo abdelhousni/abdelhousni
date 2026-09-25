@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 🔭 I’m currently working for [@Etnic](https://etnic.be) as Linux System Administrator.
 
 I'm also certified in :<br/>
-- [Red Hat Certified System Administrator (RHCSA) <img src="red-hat-certified-system-administrator-rhcsa.png" text="Red Hat Certified System Administrator (RHCSA)" >](https://www.credly.com/badges/28c12d0e-318a-4cef-a5d6-ed144a377393/public_url)
-- [ITIL® 4 Foundation Certificate in IT Service Management <img src="https://badges.peoplecert.org/Badges/Template/en/180/ec721fda-bb43-434e-8ef8-e99f8c748ee4" alt="ITIL® 4 Foundation Certificate in IT Service Management" />](https://badges.peoplecert.org/Badge/en/4E6E0754-292C-455C-BAE1-8176489DAD28)
+- [Red Hat Certified System Administrator (RHCSA)](https://www.credly.com/badges/28c12d0e-318a-4cef-a5d6-ed144a377393/public_url)
+- [ITIL® 4 Foundation Certificate in IT Service Management](https://badges.peoplecert.org/Badge/en/4E6E0754-292C-455C-BAE1-8176489DAD28)
 
 <table><tr><td valign="top" width="50%">
 
