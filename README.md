@@ -25,7 +25,7 @@ I'm also certified in :<br/>
 <!-- recent_releases starts -->
 [Shell-Scripts test](https://github.com/abdelhousni/Shell-Scripts/releases/tag/test) - 2020-10-10
 <!-- recent_releases ends -->
-More [releases](https://github.com/abdelhousni?tab=repositories)
+More [releases](https://github.com/abdelhousni?tab=repositories) and [pull requests](https://github.com/pulls?q=is%3Apr+author%3Aabdelhousni+is%3Aclosed)
 </td><td valign="top" width="50%">
 
 ### TIL

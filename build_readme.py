@@ -80,6 +80,55 @@ def fetch_releases():
     return releases
 
 
+PRS_QUERY = """
+query($query: String!) {
+  search(first: 20, type: ISSUE, query: $query) {
+    nodes {
+      ... on PullRequest {
+        number
+        title
+        url
+        closedAt
+        merged
+        repository { nameWithOwner }
+      }
+    }
+  }
+}
+"""
+
+
+def fetch_closed_prs():
+    response = httpx.post(
+        "https://api.github.com/graphql",
+        json={
+            "query": PRS_QUERY,
+            "variables": {
+                "query": "is:pr is:public is:closed author:{} sort:updated-desc".format(OWNER)
+            },
+        },
+        headers={"Authorization": "Bearer {}".format(TOKEN)},
+        timeout=30,
+    )
+    response.raise_for_status()
+    prs = []
+    for pr in response.json()["data"]["search"]["nodes"]:
+        if not pr or not pr.get("closedAt"):
+            continue
+        prs.append(
+            {
+                "repo": pr["repository"]["nameWithOwner"],
+                "number": pr["number"],
+                "title": pr["title"].replace("[", "(").replace("]", ")"),
+                "url": pr["url"],
+                "state": "merged" if pr["merged"] else "closed",
+                "published_at": pr["closedAt"],
+                "published_day": pr["closedAt"].split("T")[0],
+            }
+        )
+    return prs
+
+
 def fetch_tils():
     entries = feedparser.parse(TIL_FEED)["entries"]
     return [
@@ -96,9 +145,15 @@ if __name__ == "__main__":
     readme = root / "README.md"
     content = readme.read_text()
 
-    releases = fetch_releases()[:8]
+    items = [
+        dict(r, md="[{repo} {release}]({url})".format(**r)) for r in fetch_releases()
+    ] + [
+        dict(p, md="PR [{repo}#{number}]({url}) {title} ({state})".format(**p))
+        for p in fetch_closed_prs()
+    ]
+    items.sort(key=lambda i: i["published_at"], reverse=True)
     releases_md = "\n\n".join(
-        "[{repo} {release}]({url}) - {published_day}".format(**r) for r in releases
+        "{md} - {published_day}".format(**i) for i in items[:8]
     ) or "_No releases yet._"
     content = replace_chunk(content, "recent_releases", releases_md)
 
