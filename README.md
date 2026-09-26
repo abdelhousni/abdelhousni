@@ -23,8 +23,6 @@ I'm also certified in :<br/>
 
 ### Recent releases
 <!-- recent_releases starts -->
-[abdelhousni v1.0](https://github.com/abdelhousni/abdelhousni/releases/tag/v1.0) - 2026-09-25
-
 [Shell-Scripts test](https://github.com/abdelhousni/Shell-Scripts/releases/tag/test) - 2020-10-10
 <!-- recent_releases ends -->
 More [releases](https://github.com/abdelhousni?tab=repositories)
@@ -32,7 +30,7 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
-[NixOS on WSL2: a short admin runbook, and the files WSL manages instead of NixOS](https://abdelhousni.github.io/til/nixos/nixos-wsl-admin-runbook.html) - 2026-09-25
+[NixOS on WSL2: a short admin runbook, and the files WSL manages instead of NixOS](https://abdelhousni.github.io/til/nixos/nixos-wsl-admin-runbook.html) - 2026-09-26
 
 [First steps on NixOS: the whole system is one file, and every change is a boot entry](https://abdelhousni.github.io/til/nixos/first-steps-configuration-generations-rollback.html) - 2026-09-25
 
