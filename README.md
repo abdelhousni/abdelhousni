@@ -30,6 +30,12 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[What Packer actually is, and how it works](https://abdelhousni.github.io/til/packer/what-is-packer-and-how-it-works.html) - 2026-09-27
+
+[Configuring a repository for coding agents: what the guidance actually says](https://abdelhousni.github.io/til/git/repo-guardrails-for-coding-agents.html) - 2026-09-27
+
+[Syncing a diverged fork: take the pipeline fixes, not the content](https://abdelhousni.github.io/til/git/sync-a-diverged-fork-without-its-content.html) - 2026-09-27
+
 [A Proxmox VM on demand, NixOS from Git: OpenTofu builds a skeleton, nixos-anywhere replaces it, and the host key exists before the VM](https://abdelhousni.github.io/til/proxmox/nixos-on-demand-opentofu-nixos-anywhere-sops.html) - 2026-09-27
 
 [Testing a NixOS configuration on GitHub Actions: evaluate on every push, boot it where KVM is](https://abdelhousni.github.io/til/nixos/nixos-config-tests-github-actions.html) - 2026-09-26
@@ -39,12 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [Oh My Zsh on NixOS: the plugin list installs nothing, and NixOS aliases win](https://abdelhousni.github.io/til/nixos/zsh-oh-my-zsh-declarative.html) - 2026-09-26
 
 [NixOS on WSL2: a short admin runbook, and the files WSL manages instead of NixOS](https://abdelhousni.github.io/til/nixos/nixos-wsl-admin-runbook.html) - 2026-09-26
-
-[First steps on NixOS: the whole system is one file, and every change is a boot entry](https://abdelhousni.github.io/til/nixos/first-steps-configuration-generations-rollback.html) - 2026-09-25
-
-[What Ansible Vault actually encrypts, and where that protection stops](https://abdelhousni.github.io/til/ansible/what-ansible-vault-actually-encrypts.html) - 2026-09-24
-
-[Terraform state locking just dropped its DynamoDB requirement](https://abdelhousni.github.io/til/terraform/state-locking-inspection-refactoring-drift.html) - 2026-09-23
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://abdelhousni.github.io/til/)
 </td></tr></table>
