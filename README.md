@@ -30,6 +30,10 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Building a custom WSL2 kernel on GitHub Actions: `KCFLAGS`, not `CFLAGS`](https://abdelhousni.github.io/til/linux/wsl2-kernel-on-github-actions.html) - 2026-09-28
+
+[Oh My Posh in PowerShell and in WSL2 zsh, with one config file](https://abdelhousni.github.io/til/windows/oh-my-posh-pwsh-and-wsl-zsh.html) - 2026-09-28
+
 [A user's PATH on NixOS: declare packages, and know which settings reach services](https://abdelhousni.github.io/til/nixos/user-path-packages-shells-services.html) - 2026-09-28
 
 [RDP into Windows 11 with a Microsoft account: the password, not the PIN, and `MicrosoftAccount\`](https://abdelhousni.github.io/til/windows/rdp-microsoft-account-login.html) - 2026-09-28
@@ -41,10 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [Oh My Zsh on NixOS: the plugin list installs nothing, and NixOS aliases win](https://abdelhousni.github.io/til/nixos/zsh-oh-my-zsh-declarative.html) - 2026-09-27
 
 [What Packer actually is, and how it works](https://abdelhousni.github.io/til/packer/what-is-packer-and-how-it-works.html) - 2026-09-27
-
-[Configuring a repository for coding agents: what the guidance actually says](https://abdelhousni.github.io/til/git/repo-guardrails-for-coding-agents.html) - 2026-09-27
-
-[Syncing a diverged fork: take the pipeline fixes, not the content](https://abdelhousni.github.io/til/git/sync-a-diverged-fork-without-its-content.html) - 2026-09-27
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://abdelhousni.github.io/til/)
 </td></tr></table>
