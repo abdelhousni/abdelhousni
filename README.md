@@ -30,6 +30,10 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[A user's PATH on NixOS: declare packages, and know which settings reach services](https://abdelhousni.github.io/til/nixos/user-path-packages-shells-services.html) - 2026-09-28
+
+[RDP into Windows 11 with a Microsoft account: the password, not the PIN, and `MicrosoftAccount\`](https://abdelhousni.github.io/til/windows/rdp-microsoft-account-login.html) - 2026-09-28
+
 [A branch you fetched was force-pushed: keep the old tip, then `rebase --onto`](https://abdelhousni.github.io/til/git/resync-clone-after-force-push.html) - 2026-09-27
 
 [Home Manager as a NixOS module: dotfiles in the same rebuild, and the file that's in the way](https://abdelhousni.github.io/til/nixos/home-manager-nixos-module.html) - 2026-09-27
@@ -41,10 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [Configuring a repository for coding agents: what the guidance actually says](https://abdelhousni.github.io/til/git/repo-guardrails-for-coding-agents.html) - 2026-09-27
 
 [Syncing a diverged fork: take the pipeline fixes, not the content](https://abdelhousni.github.io/til/git/sync-a-diverged-fork-without-its-content.html) - 2026-09-27
-
-[A Proxmox VM on demand, NixOS from Git: OpenTofu builds a skeleton, nixos-anywhere replaces it, and the host key exists before the VM](https://abdelhousni.github.io/til/proxmox/nixos-on-demand-opentofu-nixos-anywhere-sops.html) - 2026-09-27
-
-[Testing a NixOS configuration on GitHub Actions: evaluate on every push, boot it where KVM is](https://abdelhousni.github.io/til/nixos/nixos-config-tests-github-actions.html) - 2026-09-26
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://abdelhousni.github.io/til/)
 </td></tr></table>
