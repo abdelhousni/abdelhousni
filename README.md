@@ -30,21 +30,21 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
-[Getting a newer Python on RHEL without touching the system python3](https://abdelhousni.github.io/til/python/newer-python-with-uv-without-touching-system-python-rhel.html) - 2026-09-29
+[Adding an Atom feed and syntax highlighting to a static site build script](https://til.housni.eu/github-pages/atom-feed-and-syntax-highlighting.html) - 2026-09-29
 
-[What Terraform, OpenTofu, and Packer promise about secrets, and where each promise stops](https://abdelhousni.github.io/til/terraform/what-terraform-opentofu-and-packer-promise-about-secrets.html) - 2026-09-29
+[Publishing a TIL collection as a static GitHub Pages site](https://til.housni.eu/github-pages/static-site-instead-of-datasette.html) - 2026-09-29
 
-[Installing PowerShell 7 on Windows, Debian and RHEL, the way Microsoft documents it](https://abdelhousni.github.io/til/windows/install-powershell-7-windows-debian-rhel.html) - 2026-09-29
+[Don't hand-write a sitemap.xml, generate it from data you already have](https://til.housni.eu/seo/generating-a-sitemap-from-existing-data.html) - 2026-09-29
 
-[Checking new firewall rules with nc and Python: open, refused, or dropped](https://abdelhousni.github.io/til/linux/check-firewall-rules-with-nc-and-python.html) - 2026-09-29
+[robots.txt for a small static site is basically a pointer to the sitemap](https://til.housni.eu/seo/robots-txt-is-mostly-just-pointing-at-the-sitemap.html) - 2026-09-29
 
-[Starting with Jev in Claude Code: a plugin that adds a skill, and an API key for experiments](https://abdelhousni.github.io/til/claude-code/typesafe-jev-plugin.html) - 2026-09-29
+[A schema.org Person block is what actually helps you rank for your own name](https://til.housni.eu/seo/schema-org-person-for-name-search.html) - 2026-09-29
 
-[Building a custom WSL2 kernel on GitHub Actions: `KCFLAGS`, not `CFLAGS`](https://abdelhousni.github.io/til/linux/wsl2-kernel-on-github-actions.html) - 2026-09-28
+[Building an Ansible execution environment from a locked requirements file](https://til.housni.eu/ansible/execution-environment-from-a-locked-requirements-file.html) - 2026-09-29
 
-[Oh My Posh in PowerShell and in WSL2 zsh, with one config file](https://abdelhousni.github.io/til/windows/oh-my-posh-pwsh-and-wsl-zsh.html) - 2026-09-28
+[Locking an Ansible development environment: pip, venv, pip-tools, uv or an execution environment](https://til.housni.eu/ansible/locking-an-ansible-dev-environment-pip-to-ee.html) - 2026-09-29
 
-[A user's PATH on NixOS: declare packages, and know which settings reach services](https://abdelhousni.github.io/til/nixos/user-path-packages-shells-services.html) - 2026-09-28
+[Pinning ansible-core with pip-tools, uv and Poetry](https://til.housni.eu/ansible/pinning-ansible-core-pip-tools-uv-poetry.html) - 2026-09-29
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://abdelhousni.github.io/til/)
 </td></tr></table>
