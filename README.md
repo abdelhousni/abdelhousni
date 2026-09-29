@@ -30,6 +30,8 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Starting with Jev in Claude Code: a plugin that adds a skill, and an API key for experiments](https://abdelhousni.github.io/til/claude-code/typesafe-jev-plugin.html) - 2026-09-29
+
 [Building a custom WSL2 kernel on GitHub Actions: `KCFLAGS`, not `CFLAGS`](https://abdelhousni.github.io/til/linux/wsl2-kernel-on-github-actions.html) - 2026-09-28
 
 [Oh My Posh in PowerShell and in WSL2 zsh, with one config file](https://abdelhousni.github.io/til/windows/oh-my-posh-pwsh-and-wsl-zsh.html) - 2026-09-28
@@ -43,8 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [Home Manager as a NixOS module: dotfiles in the same rebuild, and the file that's in the way](https://abdelhousni.github.io/til/nixos/home-manager-nixos-module.html) - 2026-09-27
 
 [Oh My Zsh on NixOS: the plugin list installs nothing, and NixOS aliases win](https://abdelhousni.github.io/til/nixos/zsh-oh-my-zsh-declarative.html) - 2026-09-27
-
-[What Packer actually is, and how it works](https://abdelhousni.github.io/til/packer/what-is-packer-and-how-it-works.html) - 2026-09-27
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://abdelhousni.github.io/til/)
 </td></tr></table>
