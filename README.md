@@ -30,6 +30,14 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Getting a newer Python on RHEL without touching the system python3](https://abdelhousni.github.io/til/python/newer-python-with-uv-without-touching-system-python-rhel.html) - 2026-09-29
+
+[What Terraform, OpenTofu, and Packer promise about secrets, and where each promise stops](https://abdelhousni.github.io/til/terraform/what-terraform-opentofu-and-packer-promise-about-secrets.html) - 2026-09-29
+
+[Installing PowerShell 7 on Windows, Debian and RHEL, the way Microsoft documents it](https://abdelhousni.github.io/til/windows/install-powershell-7-windows-debian-rhel.html) - 2026-09-29
+
+[Checking new firewall rules with nc and Python: open, refused, or dropped](https://abdelhousni.github.io/til/linux/check-firewall-rules-with-nc-and-python.html) - 2026-09-29
+
 [Starting with Jev in Claude Code: a plugin that adds a skill, and an API key for experiments](https://abdelhousni.github.io/til/claude-code/typesafe-jev-plugin.html) - 2026-09-29
 
 [Building a custom WSL2 kernel on GitHub Actions: `KCFLAGS`, not `CFLAGS`](https://abdelhousni.github.io/til/linux/wsl2-kernel-on-github-actions.html) - 2026-09-28
@@ -37,14 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [Oh My Posh in PowerShell and in WSL2 zsh, with one config file](https://abdelhousni.github.io/til/windows/oh-my-posh-pwsh-and-wsl-zsh.html) - 2026-09-28
 
 [A user's PATH on NixOS: declare packages, and know which settings reach services](https://abdelhousni.github.io/til/nixos/user-path-packages-shells-services.html) - 2026-09-28
-
-[RDP into Windows 11 with a Microsoft account: the password, not the PIN, and `MicrosoftAccount\`](https://abdelhousni.github.io/til/windows/rdp-microsoft-account-login.html) - 2026-09-28
-
-[A branch you fetched was force-pushed: keep the old tip, then `rebase --onto`](https://abdelhousni.github.io/til/git/resync-clone-after-force-push.html) - 2026-09-27
-
-[Home Manager as a NixOS module: dotfiles in the same rebuild, and the file that's in the way](https://abdelhousni.github.io/til/nixos/home-manager-nixos-module.html) - 2026-09-27
-
-[Oh My Zsh on NixOS: the plugin list installs nothing, and NixOS aliases win](https://abdelhousni.github.io/til/nixos/zsh-oh-my-zsh-declarative.html) - 2026-09-27
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://abdelhousni.github.io/til/)
 </td></tr></table>
