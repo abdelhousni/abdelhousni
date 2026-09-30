@@ -30,6 +30,8 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[An Ansible Dev Container: choosing the scaffolded config, Podman, and the EE navigator falls back to](https://til.housni.eu/ansible/ansible-dev-container-with-adt.html) - 2026-09-30
+
 [Running playbooks locally in the execution environment production uses](https://til.housni.eu/ansible/develop-against-the-production-execution-environment.html) - 2026-09-30
 
 [Committing the VS Code Ansible settings with the repository](https://til.housni.eu/ansible/vscode-ansible-settings-per-repository.html) - 2026-09-29
@@ -43,8 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [Publishing a TIL collection as a static GitHub Pages site](https://til.housni.eu/github-pages/static-site-instead-of-datasette.html) - 2026-09-29
 
 [Don't hand-write a sitemap.xml, generate it from data you already have](https://til.housni.eu/seo/generating-a-sitemap-from-existing-data.html) - 2026-09-29
-
-[robots.txt for a small static site is basically a pointer to the sitemap](https://til.housni.eu/seo/robots-txt-is-mostly-just-pointing-at-the-sitemap.html) - 2026-09-29
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://abdelhousni.github.io/til/)
 </td></tr></table>
