@@ -30,6 +30,14 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Running playbooks locally in the execution environment production uses](https://til.housni.eu/ansible/develop-against-the-production-execution-environment.html) - 2026-09-30
+
+[Committing the VS Code Ansible settings with the repository](https://til.housni.eu/ansible/vscode-ansible-settings-per-repository.html) - 2026-09-29
+
+[Ansible Development Tools (ADT): one install, and the Python version decides what you get](https://til.housni.eu/ansible/ansible-development-tools-adt.html) - 2026-09-29
+
+[Where to run an Ansible development environment: venv, Dev Container, Remote-SSH, code-server or Dev Spaces](https://til.housni.eu/ansible/where-to-run-an-ansible-dev-environment.html) - 2026-09-29
+
 [Adding an Atom feed and syntax highlighting to a static site build script](https://til.housni.eu/github-pages/atom-feed-and-syntax-highlighting.html) - 2026-09-29
 
 [Publishing a TIL collection as a static GitHub Pages site](https://til.housni.eu/github-pages/static-site-instead-of-datasette.html) - 2026-09-29
@@ -37,14 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [Don't hand-write a sitemap.xml, generate it from data you already have](https://til.housni.eu/seo/generating-a-sitemap-from-existing-data.html) - 2026-09-29
 
 [robots.txt for a small static site is basically a pointer to the sitemap](https://til.housni.eu/seo/robots-txt-is-mostly-just-pointing-at-the-sitemap.html) - 2026-09-29
-
-[A schema.org Person block is what actually helps you rank for your own name](https://til.housni.eu/seo/schema-org-person-for-name-search.html) - 2026-09-29
-
-[Building an Ansible execution environment from a locked requirements file](https://til.housni.eu/ansible/execution-environment-from-a-locked-requirements-file.html) - 2026-09-29
-
-[Locking an Ansible development environment: pip, venv, pip-tools, uv or an execution environment](https://til.housni.eu/ansible/locking-an-ansible-dev-environment-pip-to-ee.html) - 2026-09-29
-
-[Pinning ansible-core with pip-tools, uv and Poetry](https://til.housni.eu/ansible/pinning-ansible-core-pip-tools-uv-poetry.html) - 2026-09-29
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://abdelhousni.github.io/til/)
 </td></tr></table>
