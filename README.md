@@ -30,6 +30,12 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[A collection-aware venv with ansible-dev-environment (ade): what it installs, what it edits, and how to pin it](https://til.housni.eu/ansible/collection-venv-with-ansible-dev-environment.html) - 2026-10-01
+
+[A shared Ansible dev server for VS Code Remote-SSH, built with Ansible](https://til.housni.eu/ansible/shared-dev-server-for-vscode-remote-ssh.html) - 2026-10-01
+
+[Committing the VS Code Ansible settings with the repository](https://til.housni.eu/ansible/vscode-ansible-settings-per-repository.html) - 2026-10-01
+
 [An Ansible Dev Container: choosing the scaffolded config, Podman, and the EE navigator falls back to](https://til.housni.eu/ansible/ansible-dev-container-with-adt.html) - 2026-10-01
 
 [Linting Ansible before it reaches Git: `--fix` in the editor, the same ansible-lint in CI](https://til.housni.eu/ansible/ansible-lint-fix-in-the-editor-and-in-ci.html) - 2026-10-01
@@ -38,13 +44,7 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 [Pinning ansible-core with pip-tools, uv and Poetry](https://til.housni.eu/ansible/pinning-ansible-core-pip-tools-uv-poetry.html) - 2026-10-01
 
-[A collection-aware venv with ansible-dev-environment (ade): what it installs, what it edits, and how to pin it](https://til.housni.eu/ansible/collection-venv-with-ansible-dev-environment.html) - 2026-09-30
-
 [Ansible Development Tools (ADT): one install, and the Python version decides what you get](https://til.housni.eu/ansible/ansible-development-tools-adt.html) - 2026-09-30
-
-[Building an Ansible execution environment from a locked requirements file](https://til.housni.eu/ansible/execution-environment-from-a-locked-requirements-file.html) - 2026-09-30
-
-[Locking an Ansible development environment: pip, venv, pip-tools, uv or an execution environment](https://til.housni.eu/ansible/locking-an-ansible-dev-environment-pip-to-ee.html) - 2026-09-30
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://abdelhousni.github.io/til/)
 </td></tr></table>
