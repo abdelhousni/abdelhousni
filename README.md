@@ -30,21 +30,21 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
-[What Terraform, OpenTofu, and Packer promise about secrets, and where each promise stops](https://til.housni.eu/terraform/what-terraform-opentofu-and-packer-promise-about-secrets.html) - 2026-10-02
+[groupby, groupby\_as\_dict and lists\_mergeby: Proxmox guests by node, and joined to what the team declares](https://til.housni.eu/ansible/groupby-lists-mergeby-proxmox-guests.html) - 2026-10-03
 
-[Picking from a list of dicts: selectattr, rejectattr and map on Proxmox guests and host facts](https://til.housni.eu/ansible/selectattr-rejectattr-map-proxmox-guests-and-facts.html) - 2026-10-02
+[Data from other hosts: pg\_hba rules from the app servers' facts, with hostvars and extract](https://til.housni.eu/ansible/data-from-other-hosts-extract-hostvars-pg-hba.html) - 2026-10-03
 
-[One sudoers line per command with community.general.dict\_kv: building a list of dicts from a list of values](https://til.housni.eu/ansible/readable-sudoers-with-dict-kv.html) - 2026-10-01
+[Writing data out: a Caddy JSON configuration with to\_nice\_json, sort\_keys and indent](https://til.housni.eu/ansible/writing-data-out-to-nice-json-caddy.html) - 2026-10-03
 
-[Sudo rules that hand out a root shell, and a CI check that refuses them](https://til.housni.eu/linux/sudo-rules-that-hand-out-a-root-shell.html) - 2026-10-01
+[Forcing types: extra vars arrive as strings, and ansible-core 2.19 stopped guessing](https://til.housni.eu/ansible/forcing-types-extra-vars-conditionals.html) - 2026-10-02
 
-[Merging dicts with combine: PostgreSQL settings in layers, Quadlet units from a base](https://til.housni.eu/ansible/combine-recursive-list-merge-postgresql-quadlets.html) - 2026-10-01
+[default, default(omit), mandatory and ternary: sudo rules that don't set every field](https://til.housni.eu/ansible/default-omit-mandatory-ternary-sudo-rules.html) - 2026-10-02
 
-[Lists and dicts back and forth: dict2items, items2dict and zip on role, Foreman and Proxmox data](https://til.housni.eu/ansible/lists-and-dicts-dict2items-items2dict-zip.html) - 2026-10-01
+[Strings into structures: df with split and regex\_findall, findmnt with from\_json](https://til.housni.eu/ansible/strings-into-structures-df-findmnt-from-json.html) - 2026-10-02
 
-[A collection-aware venv with ansible-dev-environment (ade): what it installs, what it edits, and how to pin it](https://til.housni.eu/ansible/collection-venv-with-ansible-dev-environment.html) - 2026-10-01
+[Set operations on lists: declared Proxmox guests against the cluster, and why the order changes between runs](https://til.housni.eu/ansible/set-operations-union-difference-proxmox-drift.html) - 2026-10-02
 
-[A shared Ansible dev server for VS Code Remote-SSH, built with Ansible](https://til.housni.eu/ansible/shared-dev-server-for-vscode-remote-ssh.html) - 2026-10-01
+[subelements versus product: Quadlet volume directories and PostgreSQL pg\_hba rules](https://til.housni.eu/ansible/subelements-versus-product-quadlet-volumes-pg-hba.html) - 2026-10-02
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://abdelhousni.github.io/til/)
 </td></tr></table>
