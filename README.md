@@ -30,6 +30,10 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[What Terraform, OpenTofu, and Packer promise about secrets, and where each promise stops](https://til.housni.eu/terraform/what-terraform-opentofu-and-packer-promise-about-secrets.html) - 2026-10-02
+
+[Picking from a list of dicts: selectattr, rejectattr and map on Proxmox guests and host facts](https://til.housni.eu/ansible/selectattr-rejectattr-map-proxmox-guests-and-facts.html) - 2026-10-02
+
 [One sudoers line per command with community.general.dict\_kv: building a list of dicts from a list of values](https://til.housni.eu/ansible/readable-sudoers-with-dict-kv.html) - 2026-10-01
 
 [Sudo rules that hand out a root shell, and a CI check that refuses them](https://til.housni.eu/linux/sudo-rules-that-hand-out-a-root-shell.html) - 2026-10-01
@@ -41,10 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [A collection-aware venv with ansible-dev-environment (ade): what it installs, what it edits, and how to pin it](https://til.housni.eu/ansible/collection-venv-with-ansible-dev-environment.html) - 2026-10-01
 
 [A shared Ansible dev server for VS Code Remote-SSH, built with Ansible](https://til.housni.eu/ansible/shared-dev-server-for-vscode-remote-ssh.html) - 2026-10-01
-
-[Committing the VS Code Ansible settings with the repository](https://til.housni.eu/ansible/vscode-ansible-settings-per-repository.html) - 2026-10-01
-
-[An Ansible Dev Container: choosing the scaffolded config, Podman, and the EE navigator falls back to](https://til.housni.eu/ansible/ansible-dev-container-with-adt.html) - 2026-10-01
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://abdelhousni.github.io/til/)
 </td></tr></table>
