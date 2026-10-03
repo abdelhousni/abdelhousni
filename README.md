@@ -46,7 +46,7 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 [subelements versus product: Quadlet volume directories and PostgreSQL pg\_hba rules](https://til.housni.eu/ansible/subelements-versus-product-quadlet-volumes-pg-hba.html) - 2026-10-02
 <!-- tils ends -->
-More on [abdelhousni.github.io/til](https://abdelhousni.github.io/til/)
+More on [abdelhousni.github.io/til](https://til.housni.eu/)
 </td></tr></table>
 
 <a href="https://github.com/abdelhousni/abdelhousni/actions"><img src="https://github.com/abdelhousni/abdelhousni/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
