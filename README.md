@@ -30,6 +30,10 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Hosts and groups: the two groups every inventory has, all and ungrouped](https://til.housni.eu/ansible/inventory-hosts-groups-all-ungrouped.html) - 2026-10-03
+
+[Text on lists: building a systemd ExecStart line with regex\_replace, join and replace](https://til.housni.eu/ansible/execstart-lines-regex-replace-join-systemd.html) - 2026-10-03
+
 [set\_fact in a loop or one expression: part 11's pg\_hba rules, built both ways](https://til.housni.eu/ansible/set-fact-loop-or-one-expression-pg-hba.html) - 2026-10-03
 
 [Network data with ansible.utils: checking pg\_hba subnets and numbering Proxmox guests](https://til.housni.eu/ansible/ansible-utils-ipaddr-pg-hba-subnets-proxmox.html) - 2026-10-03
@@ -41,10 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [Data from other hosts: pg\_hba rules from the app servers' facts, with hostvars and extract](https://til.housni.eu/ansible/data-from-other-hosts-extract-hostvars-pg-hba.html) - 2026-10-03
 
 [Writing data out: a Caddy JSON configuration with to\_nice\_json, sort\_keys and indent](https://til.housni.eu/ansible/writing-data-out-to-nice-json-caddy.html) - 2026-10-03
-
-[Forcing types: extra vars arrive as strings, and ansible-core 2.19 stopped guessing](https://til.housni.eu/ansible/forcing-types-extra-vars-conditionals.html) - 2026-10-02
-
-[default, default(omit), mandatory and ternary: sudo rules that don't set every field](https://til.housni.eu/ansible/default-omit-mandatory-ternary-sudo-rules.html) - 2026-10-02
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://til.housni.eu/)
 </td></tr></table>
