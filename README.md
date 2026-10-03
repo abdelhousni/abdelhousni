@@ -30,21 +30,21 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Testing the inventory in CI, with a JSON Schema and policy checks](https://til.housni.eu/ansible/inventory-testing-in-ci-json-schema.html) - 2026-10-03
+
+[Inventory in AAP: sources from a project, smart and constructed inventories](https://til.housni.eu/ansible/inventory-in-aap-sources-smart-constructed.html) - 2026-10-03
+
+[Writing an inventory plugin, after the trust order](https://til.housni.eu/ansible/inventory-writing-a-plugin-trust-order.html) - 2026-10-03
+
+[group\_by: groups from facts, built during the run](https://til.housni.eu/ansible/inventory-group-by.html) - 2026-10-03
+
+[add\_host: provision then configure in one run](https://til.housni.eu/ansible/inventory-add-host-provision-then-configure.html) - 2026-10-03
+
+[The inventory cache and performance: request counts, want\_facts and timeouts](https://til.housni.eu/ansible/inventory-cache-performance.html) - 2026-10-03
+
+[When the inventory cache lies: stale hosts, cache\_timeout and --flush-cache](https://til.housni.eu/ansible/inventory-cache-stale-data.html) - 2026-10-03
+
 [ansible.builtin.constructed: keyed\_groups, groups and compose on top of another source](https://til.housni.eu/ansible/inventory-constructed-keyed-groups-compose.html) - 2026-10-03
-
-[The Proxmox inventory plugin: guests as hosts, filtered by tag and status](https://til.housni.eu/ansible/inventory-proxmox-plugin-guests-as-hosts.html) - 2026-10-03
-
-[The Foreman/Satellite dynamic inventory plugin](https://til.housni.eu/ansible/foreman-dynamic-inventory-plugin.html) - 2026-10-03
-
-[A single source of truth: inventory plugins, enable\_plugins and auto](https://til.housni.eu/ansible/inventory-plugins-single-source-of-truth.html) - 2026-10-03
-
-[Several inventories at once: -i dir/, load order, and which source wins](https://til.housni.eu/ansible/inventory-several-sources-load-order.html) - 2026-10-03
-
-[Data from other hosts: pg\_hba rules from the app servers' facts, with hostvars and extract](https://til.housni.eu/ansible/data-from-other-hosts-extract-hostvars-pg-hba.html) - 2026-10-03
-
-[Let the inventory be the loop: delegate\_to instead of a list of hosts](https://til.housni.eu/ansible/inventory-is-the-loop-delegate-to.html) - 2026-10-03
-
-[set\_fact in a loop or one expression: part 11's pg\_hba rules, built both ways](https://til.housni.eu/ansible/set-fact-loop-or-one-expression-pg-hba.html) - 2026-10-03
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://til.housni.eu/)
 </td></tr></table>
