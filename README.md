@@ -30,6 +30,12 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[set\_fact in a loop or one expression: part 11's pg\_hba rules, built both ways](https://til.housni.eu/ansible/set-fact-loop-or-one-expression-pg-hba.html) - 2026-10-03
+
+[Network data with ansible.utils: checking pg\_hba subnets and numbering Proxmox guests](https://til.housni.eu/ansible/ansible-utils-ipaddr-pg-hba-subnets-proxmox.html) - 2026-10-03
+
+[json\_query or native filters: part 4's Proxmox selections written in JMESPath](https://til.housni.eu/ansible/json-query-jmespath-versus-native-filters.html) - 2026-10-03
+
 [groupby, groupby\_as\_dict and lists\_mergeby: Proxmox guests by node, and joined to what the team declares](https://til.housni.eu/ansible/groupby-lists-mergeby-proxmox-guests.html) - 2026-10-03
 
 [Data from other hosts: pg\_hba rules from the app servers' facts, with hostvars and extract](https://til.housni.eu/ansible/data-from-other-hosts-extract-hostvars-pg-hba.html) - 2026-10-03
@@ -39,12 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [Forcing types: extra vars arrive as strings, and ansible-core 2.19 stopped guessing](https://til.housni.eu/ansible/forcing-types-extra-vars-conditionals.html) - 2026-10-02
 
 [default, default(omit), mandatory and ternary: sudo rules that don't set every field](https://til.housni.eu/ansible/default-omit-mandatory-ternary-sudo-rules.html) - 2026-10-02
-
-[Strings into structures: df with split and regex\_findall, findmnt with from\_json](https://til.housni.eu/ansible/strings-into-structures-df-findmnt-from-json.html) - 2026-10-02
-
-[Set operations on lists: declared Proxmox guests against the cluster, and why the order changes between runs](https://til.housni.eu/ansible/set-operations-union-difference-proxmox-drift.html) - 2026-10-02
-
-[subelements versus product: Quadlet volume directories and PostgreSQL pg\_hba rules](https://til.housni.eu/ansible/subelements-versus-product-quadlet-volumes-pg-hba.html) - 2026-10-02
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://til.housni.eu/)
 </td></tr></table>
