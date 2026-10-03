@@ -30,21 +30,21 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Facts or variables: what Ansible discovers (as-is) against what you declare (to-be)](https://til.housni.eu/ansible/inventory-facts-or-variables-as-is-to-be.html) - 2026-10-03
+
+[Checking what Ansible sees: ansible-inventory --graph, --list and --host](https://til.housni.eu/ansible/inventory-checking-with-ansible-inventory.html) - 2026-10-03
+
+[Environments in an Ansible inventory: separate directories, or prod and staging as groups](https://til.housni.eu/ansible/inventory-environments-directories-or-groups.html) - 2026-10-03
+
+[Connection variables: ansible\_host, ansible\_port, ansible\_user and ansible\_connection, with ssh, docker and local](https://til.housni.eu/ansible/inventory-connection-variables-ssh-docker-local.html) - 2026-10-03
+
+[INI or YAML for the hosts file, and why variables stay out of both](https://til.housni.eu/ansible/inventory-ini-or-yaml-hosts-file.html) - 2026-10-03
+
+[An inventory as a directory: a hosts file without variables, and group\_vars per role](https://til.housni.eu/ansible/inventory-directory-group-vars-per-role.html) - 2026-10-03
+
 [Hosts and groups: the two groups every inventory has, all and ungrouped](https://til.housni.eu/ansible/inventory-hosts-groups-all-ungrouped.html) - 2026-10-03
 
 [Text on lists: building a systemd ExecStart line with regex\_replace, join and replace](https://til.housni.eu/ansible/execstart-lines-regex-replace-join-systemd.html) - 2026-10-03
-
-[set\_fact in a loop or one expression: part 11's pg\_hba rules, built both ways](https://til.housni.eu/ansible/set-fact-loop-or-one-expression-pg-hba.html) - 2026-10-03
-
-[Network data with ansible.utils: checking pg\_hba subnets and numbering Proxmox guests](https://til.housni.eu/ansible/ansible-utils-ipaddr-pg-hba-subnets-proxmox.html) - 2026-10-03
-
-[json\_query or native filters: part 4's Proxmox selections written in JMESPath](https://til.housni.eu/ansible/json-query-jmespath-versus-native-filters.html) - 2026-10-03
-
-[groupby, groupby\_as\_dict and lists\_mergeby: Proxmox guests by node, and joined to what the team declares](https://til.housni.eu/ansible/groupby-lists-mergeby-proxmox-guests.html) - 2026-10-03
-
-[Data from other hosts: pg\_hba rules from the app servers' facts, with hostvars and extract](https://til.housni.eu/ansible/data-from-other-hosts-extract-hostvars-pg-hba.html) - 2026-10-03
-
-[Writing data out: a Caddy JSON configuration with to\_nice\_json, sort\_keys and indent](https://til.housni.eu/ansible/writing-data-out-to-nice-json-caddy.html) - 2026-10-03
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://til.housni.eu/)
 </td></tr></table>
