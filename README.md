@@ -30,6 +30,10 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Facts or variables: what Ansible discovers (as-is) against what you declare (to-be)](https://til.housni.eu/ansible/inventory-facts-or-variables-as-is-to-be.html) - 2026-10-04
+
+[Local facts in facts.d: declared data that looks measured](https://til.housni.eu/ansible/inventory-local-facts-facts-d-risks.html) - 2026-10-04
+
 [Testing the inventory in CI, with a JSON Schema and policy checks](https://til.housni.eu/ansible/inventory-testing-in-ci-json-schema.html) - 2026-10-03
 
 [Inventory in AAP: sources from a project, smart and constructed inventories](https://til.housni.eu/ansible/inventory-in-aap-sources-smart-constructed.html) - 2026-10-03
@@ -41,10 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [add\_host: provision then configure in one run](https://til.housni.eu/ansible/inventory-add-host-provision-then-configure.html) - 2026-10-03
 
 [The inventory cache and performance: request counts, want\_facts and timeouts](https://til.housni.eu/ansible/inventory-cache-performance.html) - 2026-10-03
-
-[When the inventory cache lies: stale hosts, cache\_timeout and --flush-cache](https://til.housni.eu/ansible/inventory-cache-stale-data.html) - 2026-10-03
-
-[ansible.builtin.constructed: keyed\_groups, groups and compose on top of another source](https://til.housni.eu/ansible/inventory-constructed-keyed-groups-compose.html) - 2026-10-03
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://til.housni.eu/)
 </td></tr></table>
