@@ -30,6 +30,8 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Adding a certificate to a Java keystore/truststore with keytool](https://til.housni.eu/tls/keytool-import-certificate-java-truststore.html) - 2026-10-04
+
 [Facts or variables: what Ansible discovers (as-is) against what you declare (to-be)](https://til.housni.eu/ansible/inventory-facts-or-variables-as-is-to-be.html) - 2026-10-04
 
 [Local facts in facts.d: declared data that looks measured](https://til.housni.eu/ansible/inventory-local-facts-facts-d-risks.html) - 2026-10-04
@@ -43,8 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [group\_by: groups from facts, built during the run](https://til.housni.eu/ansible/inventory-group-by.html) - 2026-10-03
 
 [add\_host: provision then configure in one run](https://til.housni.eu/ansible/inventory-add-host-provision-then-configure.html) - 2026-10-03
-
-[The inventory cache and performance: request counts, want\_facts and timeouts](https://til.housni.eu/ansible/inventory-cache-performance.html) - 2026-10-03
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://til.housni.eu/)
 </td></tr></table>
