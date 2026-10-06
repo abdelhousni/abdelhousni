@@ -30,6 +30,8 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Installing PowerShell 7 on Windows, Debian, Ubuntu and RHEL, the way Microsoft documents it](https://til.housni.eu/windows/install-powershell-7-windows-debian-rhel.html) - 2026-10-06
+
 [Adding a certificate to a Java keystore/truststore with keytool](https://til.housni.eu/tls/keytool-import-certificate-java-truststore.html) - 2026-10-04
 
 [Facts or variables: what Ansible discovers (as-is) against what you declare (to-be)](https://til.housni.eu/ansible/inventory-facts-or-variables-as-is-to-be.html) - 2026-10-04
@@ -43,8 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [Writing an inventory plugin, after the trust order](https://til.housni.eu/ansible/inventory-writing-a-plugin-trust-order.html) - 2026-10-03
 
 [group\_by: groups from facts, built during the run](https://til.housni.eu/ansible/inventory-group-by.html) - 2026-10-03
-
-[add\_host: provision then configure in one run](https://til.housni.eu/ansible/inventory-add-host-provision-then-configure.html) - 2026-10-03
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://til.housni.eu/)
 </td></tr></table>
