@@ -30,6 +30,8 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Running Linux containers on Windows with wslc, the container CLI built into WSL](https://til.housni.eu/windows/wslc-containers-in-wsl.html) - 2026-10-06
+
 [Installing PowerShell 7 on Windows, Debian, Ubuntu and RHEL, the way Microsoft documents it](https://til.housni.eu/windows/install-powershell-7-windows-debian-rhel.html) - 2026-10-06
 
 [Adding a certificate to a Java keystore/truststore with keytool](https://til.housni.eu/tls/keytool-import-certificate-java-truststore.html) - 2026-10-04
@@ -43,8 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [Inventory in AAP: sources from a project, smart and constructed inventories](https://til.housni.eu/ansible/inventory-in-aap-sources-smart-constructed.html) - 2026-10-03
 
 [Writing an inventory plugin, after the trust order](https://til.housni.eu/ansible/inventory-writing-a-plugin-trust-order.html) - 2026-10-03
-
-[group\_by: groups from facts, built during the run](https://til.housni.eu/ansible/inventory-group-by.html) - 2026-10-03
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://til.housni.eu/)
 </td></tr></table>
