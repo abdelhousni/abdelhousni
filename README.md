@@ -30,21 +30,21 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
-[Running Linux containers on Windows with wslc, the container CLI built into WSL](https://til.housni.eu/windows/wslc-containers-in-wsl.html) - 2026-10-06
+[ntfy in a Proxmox LXC, private and behind Caddy for TLS](https://til.housni.eu/proxmox/ntfy-lxc-behind-caddy-tls.html) - 2026-10-08
 
-[Installing PowerShell 7 on Windows, Debian, Ubuntu and RHEL, the way Microsoft documents it](https://til.housni.eu/windows/install-powershell-7-windows-debian-rhel.html) - 2026-10-06
+[A Let's Encrypt certificate for a LAN-only service: Caddy, DNS-01 and deSEC](https://til.housni.eu/tls/caddy-dns-01-desec-dedyn-io.html) - 2026-10-08
 
-[Adding a certificate to a Java keystore/truststore with keytool](https://til.housni.eu/tls/keytool-import-certificate-java-truststore.html) - 2026-10-04
+[Hosting my own copy of Datasette Lite from a fork](https://til.housni.eu/github-pages/host-your-own-datasette-lite-from-a-fork.html) - 2026-10-08
 
-[Facts or variables: what Ansible discovers (as-is) against what you declare (to-be)](https://til.housni.eu/ansible/inventory-facts-or-variables-as-is-to-be.html) - 2026-10-04
+[git tag basics, grounded in how Ansible collection releases actually use them](https://til.housni.eu/ansible/git-tag-basics-collection-releases.html) - 2026-10-08
 
-[Local facts in facts.d: declared data that looks measured](https://til.housni.eu/ansible/inventory-local-facts-facts-d-risks.html) - 2026-10-04
+[Scaffolding with ansible-creator: roles inside a collection, and what to change in the output](https://til.housni.eu/ansible/scaffolding-with-ansible-creator.html) - 2026-10-08
 
-[Testing the inventory in CI, with a JSON Schema and policy checks](https://til.housni.eu/ansible/inventory-testing-in-ci-json-schema.html) - 2026-10-03
+[Starting an Ansible role project with uv for the venv](https://til.housni.eu/ansible/starting-a-role-with-uv-venv.html) - 2026-10-08
 
-[Inventory in AAP: sources from a project, smart and constructed inventories](https://til.housni.eu/ansible/inventory-in-aap-sources-smart-constructed.html) - 2026-10-03
+[Installing git, gh, and glab, and the auth each one actually needs](https://til.housni.eu/git/git-gh-glab-install-and-auth.html) - 2026-10-08
 
-[Writing an inventory plugin, after the trust order](https://til.housni.eu/ansible/inventory-writing-a-plugin-trust-order.html) - 2026-10-03
+[Configuring a repository for coding agents: what the guidance actually says](https://til.housni.eu/git/repo-guardrails-for-coding-agents.html) - 2026-10-08
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://til.housni.eu/)
 </td></tr></table>
