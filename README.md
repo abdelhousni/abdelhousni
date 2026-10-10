@@ -30,6 +30,8 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Packaging AI assistant context with Lola: MCP servers, skills and rules as modules](https://til.housni.eu/claude-code/lola-package-manager-for-ai-context.html) - 2026-10-10
+
 [`podman compose` fails because it handed the job to docker-compose, which needs the Podman socket](https://til.housni.eu/podman/podman-compose-docker-compose-plugin-needs-the-socket.html) - 2026-10-09
 
 [A minimal IaC toolbox on WSL2 with standalone Home Manager: Nix owns Python and OpenTofu, uv owns Ansible](https://til.housni.eu/nixos/home-manager-standalone-wsl-uv-ansible-opentofu.html) - 2026-10-08
@@ -43,8 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [git tag basics, grounded in how Ansible collection releases actually use them](https://til.housni.eu/ansible/git-tag-basics-collection-releases.html) - 2026-10-08
 
 [Scaffolding with ansible-creator: roles inside a collection, and what to change in the output](https://til.housni.eu/ansible/scaffolding-with-ansible-creator.html) - 2026-10-08
-
-[Starting an Ansible role project with uv for the venv](https://til.housni.eu/ansible/starting-a-role-with-uv-venv.html) - 2026-10-08
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://til.housni.eu/)
 </td></tr></table>
