@@ -30,6 +30,8 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Uploading files larger than Artifactory's upload limit](https://til.housni.eu/artifactory/uploading-files-larger-than-the-ui-limit.html) - 2026-10-21
+
 [A playbook hangs at fact gathering or `service\_facts`: find the blocking call, then bound it](https://til.housni.eu/ansible/playbook-hangs-at-fact-gathering-or-service-facts.html) - 2026-10-17
 
 [A lightweight graphical file manager in WSLg: Thunar on Ubuntu, RHEL 9 and NixOS](https://til.housni.eu/windows/thunar-file-manager-in-wslg.html) - 2026-10-15
@@ -43,8 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [ntfy in a Proxmox LXC, private and behind Caddy for TLS](https://til.housni.eu/proxmox/ntfy-lxc-behind-caddy-tls.html) - 2026-10-08
 
 [A Let's Encrypt certificate for a LAN-only service: Caddy, DNS-01 and deSEC](https://til.housni.eu/tls/caddy-dns-01-desec-dedyn-io.html) - 2026-10-08
-
-[Hosting my own copy of Datasette Lite from a fork](https://til.housni.eu/github-pages/host-your-own-datasette-lite-from-a-fork.html) - 2026-10-08
 <!-- tils ends -->
 More on [abdelhousni.github.io/til](https://til.housni.eu/)
 </td></tr></table>
