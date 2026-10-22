@@ -30,6 +30,14 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[OpenTofu in a GitLab pipeline: GitLab-managed state and the OpenTofu CI/CD component](https://til.housni.eu/terraform/opentofu-gitlab-pipeline-managed-state-component.html) - 2026-10-23
+
+[Ansible controllers in 2026: AWX paused, AAP, Semaphore UI, or plain CI](https://til.housni.eu/ansible/ansible-controllers-2026-awx-aap-semaphore-ci.html) - 2026-10-22
+
+[Control node, runner, controller: who runs your Ansible, and how Tower became AWX and AAP](https://til.housni.eu/ansible/control-node-runner-controller-tower-awx-aap.html) - 2026-10-22
+
+[GitOps with tools that push: Ansible and OpenTofu against the four OpenGitOps principles](https://til.housni.eu/gitops/gitops-with-push-tools-ansible-opentofu.html) - 2026-10-22
+
 [Uploading files larger than Artifactory's upload limit](https://til.housni.eu/artifactory/uploading-files-larger-than-the-ui-limit.html) - 2026-10-21
 
 [A playbook hangs at fact gathering or `service\_facts`: find the blocking call, then bound it](https://til.housni.eu/ansible/playbook-hangs-at-fact-gathering-or-service-facts.html) - 2026-10-17
@@ -37,14 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [A lightweight graphical file manager in WSLg: Thunar on Ubuntu, RHEL 9 and NixOS](https://til.housni.eu/windows/thunar-file-manager-in-wslg.html) - 2026-10-15
 
 [Changing when logrotate runs: the systemd timer, from the command line and with Ansible](https://til.housni.eu/linux/change-the-logrotate-timer-schedule.html) - 2026-10-15
-
-[`podman compose` fails because it handed the job to docker-compose, which needs the Podman socket](https://til.housni.eu/podman/podman-compose-docker-compose-plugin-needs-the-socket.html) - 2026-10-09
-
-[A minimal IaC toolbox on WSL2 with standalone Home Manager: Nix owns Python and OpenTofu, uv owns Ansible](https://til.housni.eu/nixos/home-manager-standalone-wsl-uv-ansible-opentofu.html) - 2026-10-08
-
-[ntfy in a Proxmox LXC, private and behind Caddy for TLS](https://til.housni.eu/proxmox/ntfy-lxc-behind-caddy-tls.html) - 2026-10-08
-
-[A Let's Encrypt certificate for a LAN-only service: Caddy, DNS-01 and deSEC](https://til.housni.eu/tls/caddy-dns-01-desec-dedyn-io.html) - 2026-10-08
 <!-- tils ends -->
 More on [My technical blog https://til.housni.eu](https://til.housni.eu/)
 </td></tr></table>
