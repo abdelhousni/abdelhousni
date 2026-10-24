@@ -30,6 +30,14 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[A namespace on its own protects nothing: quotas, limit ranges, network policies and Pod Security do](https://til.housni.eu/kubernetes/namespaces-resourcequota-limitrange-rke2.html) - 2026-10-24
+
+[Restoring RKE2 etcd across an HA cluster, and backing snapshots up to S3](https://til.housni.eu/kubernetes/rke2-etcd-ha-restore-and-s3-backup.html) - 2026-10-24
+
+[Cleanly stopping an RKE2 node for planned maintenance](https://til.housni.eu/kubernetes/rke2-node-maintenance-drain-reboot.html) - 2026-10-24
+
+[RKE2 leaves its servers schedulable, so your workloads have been running on the control plane all along](https://til.housni.eu/kubernetes/rke2-node-scheduling-labels-taints-tolerations.html) - 2026-10-24
+
 [DevOps and DevSecOps terminology: DORA metrics, CI/CD for Ansible, feature branches and GitOps](https://til.housni.eu/devops/devops-devsecops-dora-cicd-gitops-terminology.html) - 2026-10-24
 
 [OpenTofu in a GitLab pipeline: GitLab-managed state and the OpenTofu CI/CD component](https://til.housni.eu/terraform/opentofu-gitlab-pipeline-managed-state-component.html) - 2026-10-23
@@ -37,14 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [Ansible controllers in 2026: AWX paused, AAP, Semaphore UI, or plain CI](https://til.housni.eu/ansible/ansible-controllers-2026-awx-aap-semaphore-ci.html) - 2026-10-22
 
 [Control node, runner, controller: who runs your Ansible, and how Tower became AWX and AAP](https://til.housni.eu/ansible/control-node-runner-controller-tower-awx-aap.html) - 2026-10-22
-
-[GitOps with tools that push: Ansible and OpenTofu against the four OpenGitOps principles](https://til.housni.eu/gitops/gitops-with-push-tools-ansible-opentofu.html) - 2026-10-22
-
-[Uploading files larger than Artifactory's upload limit](https://til.housni.eu/artifactory/uploading-files-larger-than-the-ui-limit.html) - 2026-10-21
-
-[A playbook hangs at fact gathering or `service\_facts`: find the blocking call, then bound it](https://til.housni.eu/ansible/playbook-hangs-at-fact-gathering-or-service-facts.html) - 2026-10-17
-
-[A lightweight graphical file manager in WSLg: Thunar on Ubuntu, RHEL 9 and NixOS](https://til.housni.eu/windows/thunar-file-manager-in-wslg.html) - 2026-10-15
 <!-- tils ends -->
 More on [My technical blog https://til.housni.eu](https://til.housni.eu/)
 </td></tr></table>
