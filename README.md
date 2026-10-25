@@ -30,6 +30,10 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[A simple GitLab CI pipeline for ansible-lint on a custom Python image](https://til.housni.eu/gitlab-ci/ansible-lint-custom-python-image.html) - 2026-10-25
+
+[Building GitLab CI images on a flaky network](https://til.housni.eu/gitlab-ci/gitlab-ci-images-flaky-network.html) - 2026-10-25
+
 [A namespace on its own protects nothing: quotas, limit ranges, network policies and Pod Security do](https://til.housni.eu/kubernetes/namespaces-resourcequota-limitrange-rke2.html) - 2026-10-24
 
 [Restoring RKE2 etcd across an HA cluster, and backing snapshots up to S3](https://til.housni.eu/kubernetes/rke2-etcd-ha-restore-and-s3-backup.html) - 2026-10-24
@@ -41,10 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [DevOps and DevSecOps terminology: DORA metrics, CI/CD for Ansible, feature branches and GitOps](https://til.housni.eu/devops/devops-devsecops-dora-cicd-gitops-terminology.html) - 2026-10-24
 
 [OpenTofu in a GitLab pipeline: GitLab-managed state and the OpenTofu CI/CD component](https://til.housni.eu/terraform/opentofu-gitlab-pipeline-managed-state-component.html) - 2026-10-23
-
-[Ansible controllers in 2026: AWX paused, AAP, Semaphore UI, or plain CI](https://til.housni.eu/ansible/ansible-controllers-2026-awx-aap-semaphore-ci.html) - 2026-10-22
-
-[Control node, runner, controller: who runs your Ansible, and how Tower became AWX and AAP](https://til.housni.eu/ansible/control-node-runner-controller-tower-awx-aap.html) - 2026-10-22
 <!-- tils ends -->
 More on [My technical blog https://til.housni.eu](https://til.housni.eu/)
 </td></tr></table>
