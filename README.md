@@ -30,6 +30,8 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[DevOps and DevSecOps terminology: DORA metrics, CI/CD for Ansible, feature branches and GitOps](https://til.housni.eu/devops/devops-devsecops-dora-cicd-gitops-terminology.html) - 2026-10-27
+
 [Controlling which Python uv uses](https://til.housni.eu/python/control-which-python-uv-uses.html) - 2026-10-26
 
 [A liveness probe restarts a container, a readiness probe only takes it out of the Service](https://til.housni.eu/kubernetes/liveness-readiness-startup-probes.html) - 2026-10-25
@@ -43,8 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [Restoring RKE2 etcd across an HA cluster, and backing snapshots up to S3](https://til.housni.eu/kubernetes/rke2-etcd-ha-restore-and-s3-backup.html) - 2026-10-24
 
 [Cleanly stopping an RKE2 node for planned maintenance](https://til.housni.eu/kubernetes/rke2-node-maintenance-drain-reboot.html) - 2026-10-24
-
-[RKE2 leaves its servers schedulable, so your workloads have been running on the control plane all along](https://til.housni.eu/kubernetes/rke2-node-scheduling-labels-taints-tolerations.html) - 2026-10-24
 <!-- tils ends -->
 More on [My technical blog https://til.housni.eu](https://til.housni.eu/)
 </td></tr></table>
