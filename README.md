@@ -30,13 +30,13 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[A simple GitLab CI pipeline for ansible-lint on a custom Python image](https://til.housni.eu/gitlab-ci/ansible-lint-custom-python-image.html) - 2026-10-27
+
 [DevOps and DevSecOps terminology: DORA metrics, CI/CD for Ansible, feature branches and GitOps](https://til.housni.eu/devops/devops-devsecops-dora-cicd-gitops-terminology.html) - 2026-10-27
 
 [Controlling which Python uv uses](https://til.housni.eu/python/control-which-python-uv-uses.html) - 2026-10-26
 
 [A liveness probe restarts a container, a readiness probe only takes it out of the Service](https://til.housni.eu/kubernetes/liveness-readiness-startup-probes.html) - 2026-10-25
-
-[A simple GitLab CI pipeline for ansible-lint on a custom Python image](https://til.housni.eu/gitlab-ci/ansible-lint-custom-python-image.html) - 2026-10-25
 
 [Building GitLab CI images on a flaky network](https://til.housni.eu/gitlab-ci/gitlab-ci-images-flaky-network.html) - 2026-10-25
 
