@@ -30,6 +30,8 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Deleting merged branches: GitHub's auto-delete, GitLab's equivalent, and the local clone](https://til.housni.eu/git/delete-merged-branches-github-gitlab-and-local.html) - 2026-10-28
+
 [A simple GitLab CI pipeline for ansible-lint on a custom Python image](https://til.housni.eu/gitlab-ci/ansible-lint-custom-python-image.html) - 2026-10-27
 
 [DevOps and DevSecOps terminology: DORA metrics, CI/CD for Ansible, feature branches and GitOps](https://til.housni.eu/devops/devops-devsecops-dora-cicd-gitops-terminology.html) - 2026-10-27
@@ -43,8 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [A namespace on its own protects nothing: quotas, limit ranges, network policies and Pod Security do](https://til.housni.eu/kubernetes/namespaces-resourcequota-limitrange-rke2.html) - 2026-10-24
 
 [Restoring RKE2 etcd across an HA cluster, and backing snapshots up to S3](https://til.housni.eu/kubernetes/rke2-etcd-ha-restore-and-s3-backup.html) - 2026-10-24
-
-[Cleanly stopping an RKE2 node for planned maintenance](https://til.housni.eu/kubernetes/rke2-node-maintenance-drain-reboot.html) - 2026-10-24
 <!-- tils ends -->
 More on [My technical blog https://til.housni.eu](https://til.housni.eu/)
 </td></tr></table>
