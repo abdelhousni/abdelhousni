@@ -30,21 +30,21 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Debugging a Proxmox VM whose cloud-init config didn't apply](https://til.housni.eu/proxmox/debugging-cloud-init-on-first-boot.html) - 2026-10-28
+
+[Injecting qemu-guest-agent into Debian, Ubuntu, RHEL-family and openSUSE cloud templates, from the CLI](https://til.housni.eu/proxmox/inject-qemu-guest-agent-cloud-templates.html) - 2026-10-28
+
+[A Proxmox VM on demand, NixOS from Git: OpenTofu builds a skeleton, nixos-anywhere replaces it, and the host key exists before the VM](https://til.housni.eu/proxmox/nixos-on-demand-opentofu-nixos-anywhere-sops.html) - 2026-10-28
+
+[A libvirt RHEL Kickstart example ported to Proxmox, minus the one flag with no equivalent](https://til.housni.eu/proxmox/rhel-kickstart-libvirt-example-ported.html) - 2026-10-28
+
+[Reuse one ssh-agent across shells with keychain](https://til.housni.eu/ssh/reuse-one-ssh-agent-across-shells-with-keychain.html) - 2026-10-28
+
 [Deleting merged branches: GitHub's auto-delete, GitLab's equivalent, and the local clone](https://til.housni.eu/git/delete-merged-branches-github-gitlab-and-local.html) - 2026-10-28
 
 [A simple GitLab CI pipeline for ansible-lint on a custom Python image](https://til.housni.eu/gitlab-ci/ansible-lint-custom-python-image.html) - 2026-10-27
 
 [DevOps and DevSecOps terminology: DORA metrics, CI/CD for Ansible, feature branches and GitOps](https://til.housni.eu/devops/devops-devsecops-dora-cicd-gitops-terminology.html) - 2026-10-27
-
-[Controlling which Python uv uses](https://til.housni.eu/python/control-which-python-uv-uses.html) - 2026-10-26
-
-[A liveness probe restarts a container, a readiness probe only takes it out of the Service](https://til.housni.eu/kubernetes/liveness-readiness-startup-probes.html) - 2026-10-25
-
-[Building GitLab CI images on a flaky network](https://til.housni.eu/gitlab-ci/gitlab-ci-images-flaky-network.html) - 2026-10-25
-
-[A namespace on its own protects nothing: quotas, limit ranges, network policies and Pod Security do](https://til.housni.eu/kubernetes/namespaces-resourcequota-limitrange-rke2.html) - 2026-10-24
-
-[Restoring RKE2 etcd across an HA cluster, and backing snapshots up to S3](https://til.housni.eu/kubernetes/rke2-etcd-ha-restore-and-s3-backup.html) - 2026-10-24
 <!-- tils ends -->
 More on [My technical blog https://til.housni.eu](https://til.housni.eu/)
 </td></tr></table>
