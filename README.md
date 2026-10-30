@@ -30,6 +30,8 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Reuse one ssh-agent across shells with keychain](https://til.housni.eu/ssh/reuse-one-ssh-agent-across-shells-with-keychain.html) - 2026-10-30
+
 [Debugging a Proxmox VM whose cloud-init config didn't apply](https://til.housni.eu/proxmox/debugging-cloud-init-on-first-boot.html) - 2026-10-28
 
 [Injecting qemu-guest-agent into Debian, Ubuntu, RHEL-family and openSUSE cloud templates, from the CLI](https://til.housni.eu/proxmox/inject-qemu-guest-agent-cloud-templates.html) - 2026-10-28
@@ -37,8 +39,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [A Proxmox VM on demand, NixOS from Git: OpenTofu builds a skeleton, nixos-anywhere replaces it, and the host key exists before the VM](https://til.housni.eu/proxmox/nixos-on-demand-opentofu-nixos-anywhere-sops.html) - 2026-10-28
 
 [A libvirt RHEL Kickstart example ported to Proxmox, minus the one flag with no equivalent](https://til.housni.eu/proxmox/rhel-kickstart-libvirt-example-ported.html) - 2026-10-28
-
-[Reuse one ssh-agent across shells with keychain](https://til.housni.eu/ssh/reuse-one-ssh-agent-across-shells-with-keychain.html) - 2026-10-28
 
 [Deleting merged branches: GitHub's auto-delete, GitLab's equivalent, and the local clone](https://til.housni.eu/git/delete-merged-branches-github-gitlab-and-local.html) - 2026-10-28
 
