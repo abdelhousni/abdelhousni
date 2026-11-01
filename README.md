@@ -30,6 +30,8 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[A wildcard certificate for a private Kubernetes cluster: cert-manager, DNS-01 and deSEC](https://til.housni.eu/tls/cert-manager-dns-01-desec-private-kubernetes.html) - 2026-11-01
+
 [Reuse one ssh-agent across shells with keychain](https://til.housni.eu/ssh/reuse-one-ssh-agent-across-shells-with-keychain.html) - 2026-10-30
 
 [Debugging a Proxmox VM whose cloud-init config didn't apply](https://til.housni.eu/proxmox/debugging-cloud-init-on-first-boot.html) - 2026-10-28
@@ -43,8 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [Deleting merged branches: GitHub's auto-delete, GitLab's equivalent, and the local clone](https://til.housni.eu/git/delete-merged-branches-github-gitlab-and-local.html) - 2026-10-28
 
 [A simple GitLab CI pipeline for ansible-lint on a custom Python image](https://til.housni.eu/gitlab-ci/ansible-lint-custom-python-image.html) - 2026-10-27
-
-[DevOps and DevSecOps terminology: DORA metrics, CI/CD for Ansible, feature branches and GitOps](https://til.housni.eu/devops/devops-devsecops-dora-cicd-gitops-terminology.html) - 2026-10-27
 <!-- tils ends -->
 More on [My technical blog https://til.housni.eu](https://til.housni.eu/)
 </td></tr></table>
