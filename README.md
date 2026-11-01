@@ -30,6 +30,12 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[AppImage: "error loading libfuse.so.2" on recent Ubuntu](https://til.housni.eu/linux/appimage-libfuse2-error.html) - 2026-11-01
+
+[`.wslconfig` vs `wsl.conf`: which file sets what in WSL](https://til.housni.eu/windows/wslconfig-vs-wsl-conf.html) - 2026-11-01
+
+[WSLg: "Missing X server or $DISPLAY" when a Linux GUI app won't open](https://til.housni.eu/windows/wslg-missing-x-server-or-display.html) - 2026-11-01
+
 [A wildcard certificate for a private Kubernetes cluster: cert-manager, DNS-01 and deSEC](https://til.housni.eu/tls/cert-manager-dns-01-desec-private-kubernetes.html) - 2026-11-01
 
 [Reuse one ssh-agent across shells with keychain](https://til.housni.eu/ssh/reuse-one-ssh-agent-across-shells-with-keychain.html) - 2026-10-30
@@ -39,12 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [Injecting qemu-guest-agent into Debian, Ubuntu, RHEL-family and openSUSE cloud templates, from the CLI](https://til.housni.eu/proxmox/inject-qemu-guest-agent-cloud-templates.html) - 2026-10-28
 
 [A Proxmox VM on demand, NixOS from Git: OpenTofu builds a skeleton, nixos-anywhere replaces it, and the host key exists before the VM](https://til.housni.eu/proxmox/nixos-on-demand-opentofu-nixos-anywhere-sops.html) - 2026-10-28
-
-[A libvirt RHEL Kickstart example ported to Proxmox, minus the one flag with no equivalent](https://til.housni.eu/proxmox/rhel-kickstart-libvirt-example-ported.html) - 2026-10-28
-
-[Deleting merged branches: GitHub's auto-delete, GitLab's equivalent, and the local clone](https://til.housni.eu/git/delete-merged-branches-github-gitlab-and-local.html) - 2026-10-28
-
-[A simple GitLab CI pipeline for ansible-lint on a custom Python image](https://til.housni.eu/gitlab-ci/ansible-lint-custom-python-image.html) - 2026-10-27
 <!-- tils ends -->
 More on [My technical blog https://til.housni.eu](https://til.housni.eu/)
 </td></tr></table>
