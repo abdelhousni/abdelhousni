@@ -30,21 +30,21 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
-[Rendering Mermaid diagrams in a Python-Markdown static site](https://til.housni.eu/github-pages/mermaid-diagrams-in-markdown.html) - 2026-11-02
+[Docker Hub said 429: pulling base images from the distributions' own registries and a Docker Hub mirror, then trusting the proxy inside the containers](https://til.housni.eu/claude-code/docker-hub-rate-limit-registries-mirror-proxy-ca.html) - 2026-11-08
 
-[A "read in French" link on a static site: Google's translation proxy, the reader's language, and what it does to SEO and accessibility](https://til.housni.eu/seo/a-translate-link-in-the-readers-language.html) - 2026-11-02
+[apt, dnf and pacman side by side: one cheat sheet for Ubuntu 26.04, Fedora 45 and Arch](https://til.housni.eu/package-managers/apt-dnf-pacman-side-by-side-ubuntu-fedora-arch.html) - 2026-11-08
 
-[PDCA, the Deming cycle, as a DevSecOps service design process](https://til.housni.eu/devops/pdca-deming-wheel-applied-to-devsecops-work.html) - 2026-11-02
+[The package manager map: one portable environment for WSL2 and VMs, from apt to OCI images](https://til.housni.eu/package-managers/portable-environment-map-package-managers-to-images.html) - 2026-11-08
 
-[AppImage: "error loading libfuse.so.2" on recent Ubuntu](https://til.housni.eu/linux/appimage-libfuse2-error.html) - 2026-11-01
+[`git config user.email` isn't the identity Git commits with: check `git var`](https://til.housni.eu/git/git-config-user-email-is-not-the-commit-identity.html) - 2026-11-08
 
-[`.wslconfig` vs `wsl.conf`: which file sets what in WSL](https://til.housni.eu/windows/wslconfig-vs-wsl-conf.html) - 2026-11-01
+[Configuring a repository for coding agents: what the guidance actually says](https://til.housni.eu/git/repo-guardrails-for-coding-agents.html) - 2026-11-08
 
-[WSLg: "Missing X server or $DISPLAY" when a Linux GUI app won't open](https://til.housni.eu/windows/wslg-missing-x-server-or-display.html) - 2026-11-01
+[What a root module is in Terraform/OpenTofu, and why the state belongs to it](https://til.housni.eu/terraform/root-module-and-child-modules-who-owns-the-state.html) - 2026-11-08
 
-[A wildcard certificate for a private Kubernetes cluster: cert-manager, DNS-01 and deSEC](https://til.housni.eu/tls/cert-manager-dns-01-desec-private-kubernetes.html) - 2026-11-01
+[Conventional Commits: commit messages that tools can read](https://til.housni.eu/git/conventional-commits-messages-that-tools-can-read.html) - 2026-11-08
 
-[Reuse one ssh-agent across shells with keychain](https://til.housni.eu/ssh/reuse-one-ssh-agent-across-shells-with-keychain.html) - 2026-10-30
+[Injecting qemu-guest-agent into Debian, Ubuntu, RHEL-family and openSUSE cloud templates, from the CLI](https://til.housni.eu/proxmox/inject-qemu-guest-agent-cloud-templates.html) - 2026-11-08
 <!-- tils ends -->
 More on [My technical blog https://til.housni.eu](https://til.housni.eu/)
 </td></tr></table>
