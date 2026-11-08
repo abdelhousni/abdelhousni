@@ -30,6 +30,14 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[RKE2's ingress default moved to Traefik, because ingress-nginx is ending](https://til.housni.eu/kubernetes/rke2-ingress-traefik-nginx-retirement.html) - 2026-11-08
+
+[How the lablabs.rke2 Ansible role upgrades an RKE2 cluster, node by node](https://til.housni.eu/kubernetes/rke2-upgrade-with-the-lablabs-rke2-role.html) - 2026-11-08
+
+[A liveness probe restarts a container, a readiness probe only takes it out of the Service](https://til.housni.eu/kubernetes/liveness-readiness-startup-probes.html) - 2026-11-08
+
+[Cleanly stopping an RKE2 node for planned maintenance](https://til.housni.eu/kubernetes/rke2-node-maintenance-drain-reboot.html) - 2026-11-08
+
 [Adding Renovate to a GitHub project: the hosted app, and the versions it can't see](https://til.housni.eu/renovate/adding-renovate-to-a-github-project.html) - 2026-11-08
 
 [Docker Hub said 429: pulling base images from the distributions' own registries and a Docker Hub mirror, then trusting the proxy inside the containers](https://til.housni.eu/claude-code/docker-hub-rate-limit-registries-mirror-proxy-ca.html) - 2026-11-08
@@ -37,14 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [apt, dnf and pacman side by side: one cheat sheet for Ubuntu 26.04, Fedora 45 and Arch](https://til.housni.eu/package-managers/apt-dnf-pacman-side-by-side-ubuntu-fedora-arch.html) - 2026-11-08
 
 [The package manager map: one portable environment for WSL2 and VMs, from apt to OCI images](https://til.housni.eu/package-managers/portable-environment-map-package-managers-to-images.html) - 2026-11-08
-
-[`git config user.email` isn't the identity Git commits with: check `git var`](https://til.housni.eu/git/git-config-user-email-is-not-the-commit-identity.html) - 2026-11-08
-
-[Configuring a repository for coding agents: what the guidance actually says](https://til.housni.eu/git/repo-guardrails-for-coding-agents.html) - 2026-11-08
-
-[What a root module is in Terraform/OpenTofu, and why the state belongs to it](https://til.housni.eu/terraform/root-module-and-child-modules-who-owns-the-state.html) - 2026-11-08
-
-[Conventional Commits: commit messages that tools can read](https://til.housni.eu/git/conventional-commits-messages-that-tools-can-read.html) - 2026-11-08
 <!-- tils ends -->
 More on [My technical blog https://til.housni.eu](https://til.housni.eu/)
 </td></tr></table>
