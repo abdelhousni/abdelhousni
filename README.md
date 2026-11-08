@@ -30,6 +30,8 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Adding Renovate to a GitHub project: the hosted app, and the versions it can't see](https://til.housni.eu/renovate/adding-renovate-to-a-github-project.html) - 2026-11-08
+
 [Docker Hub said 429: pulling base images from the distributions' own registries and a Docker Hub mirror, then trusting the proxy inside the containers](https://til.housni.eu/claude-code/docker-hub-rate-limit-registries-mirror-proxy-ca.html) - 2026-11-08
 
 [apt, dnf and pacman side by side: one cheat sheet for Ubuntu 26.04, Fedora 45 and Arch](https://til.housni.eu/package-managers/apt-dnf-pacman-side-by-side-ubuntu-fedora-arch.html) - 2026-11-08
@@ -43,8 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [What a root module is in Terraform/OpenTofu, and why the state belongs to it](https://til.housni.eu/terraform/root-module-and-child-modules-who-owns-the-state.html) - 2026-11-08
 
 [Conventional Commits: commit messages that tools can read](https://til.housni.eu/git/conventional-commits-messages-that-tools-can-read.html) - 2026-11-08
-
-[Injecting qemu-guest-agent into Debian, Ubuntu, RHEL-family and openSUSE cloud templates, from the CLI](https://til.housni.eu/proxmox/inject-qemu-guest-agent-cloud-templates.html) - 2026-11-08
 <!-- tils ends -->
 More on [My technical blog https://til.housni.eu](https://til.housni.eu/)
 </td></tr></table>
