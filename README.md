@@ -30,6 +30,10 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Kustomize overlays: trimming an upstream release without editing it](https://til.housni.eu/kubernetes/kustomize-overlays-trimming-an-upstream-release.html) - 2026-11-08
+
+[Installing kube-prometheus on RKE2, one step at a time](https://til.housni.eu/kubernetes/kube-prometheus-on-rke2-step-by-step.html) - 2026-11-08
+
 [RKE2's ingress default moved to Traefik, because ingress-nginx is ending](https://til.housni.eu/kubernetes/rke2-ingress-traefik-nginx-retirement.html) - 2026-11-08
 
 [How the lablabs.rke2 Ansible role upgrades an RKE2 cluster, node by node](https://til.housni.eu/kubernetes/rke2-upgrade-with-the-lablabs-rke2-role.html) - 2026-11-08
@@ -41,10 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [Adding Renovate to a GitHub project: the hosted app, and the versions it can't see](https://til.housni.eu/renovate/adding-renovate-to-a-github-project.html) - 2026-11-08
 
 [Docker Hub said 429: pulling base images from the distributions' own registries and a Docker Hub mirror, then trusting the proxy inside the containers](https://til.housni.eu/claude-code/docker-hub-rate-limit-registries-mirror-proxy-ca.html) - 2026-11-08
-
-[apt, dnf and pacman side by side: one cheat sheet for Ubuntu 26.04, Fedora 45 and Arch](https://til.housni.eu/package-managers/apt-dnf-pacman-side-by-side-ubuntu-fedora-arch.html) - 2026-11-08
-
-[The package manager map: one portable environment for WSL2 and VMs, from apt to OCI images](https://til.housni.eu/package-managers/portable-environment-map-package-managers-to-images.html) - 2026-11-08
 <!-- tils ends -->
 More on [My technical blog https://til.housni.eu](https://til.housni.eu/)
 </td></tr></table>
