@@ -30,6 +30,10 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[Loadable modules for a custom WSL2 kernel: a `modules.vhdx` and one `.wslconfig` line](https://til.housni.eu/linux/wsl2-kernel-modules-vhdx.html) - 2026-11-10
+
+[Building a custom WSL2 kernel on GitHub Actions: `KCFLAGS`, not `CFLAGS`](https://til.housni.eu/linux/wsl2-kernel-on-github-actions.html) - 2026-11-10
+
 [Kustomize overlays: trimming an upstream release without editing it](https://til.housni.eu/kubernetes/kustomize-overlays-trimming-an-upstream-release.html) - 2026-11-08
 
 [Installing kube-prometheus on RKE2, one step at a time](https://til.housni.eu/kubernetes/kube-prometheus-on-rke2-step-by-step.html) - 2026-11-08
@@ -41,10 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [A liveness probe restarts a container, a readiness probe only takes it out of the Service](https://til.housni.eu/kubernetes/liveness-readiness-startup-probes.html) - 2026-11-08
 
 [Cleanly stopping an RKE2 node for planned maintenance](https://til.housni.eu/kubernetes/rke2-node-maintenance-drain-reboot.html) - 2026-11-08
-
-[Adding Renovate to a GitHub project: the hosted app, and the versions it can't see](https://til.housni.eu/renovate/adding-renovate-to-a-github-project.html) - 2026-11-08
-
-[Docker Hub said 429: pulling base images from the distributions' own registries and a Docker Hub mirror, then trusting the proxy inside the containers](https://til.housni.eu/claude-code/docker-hub-rate-limit-registries-mirror-proxy-ca.html) - 2026-11-08
 <!-- tils ends -->
 More on [My technical blog https://til.housni.eu](https://til.housni.eu/)
 </td></tr></table>
