@@ -30,6 +30,8 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 
 ### TIL
 <!-- tils starts -->
+[NixOS on WSL2: a short admin runbook, and the files WSL manages instead of NixOS](https://til.housni.eu/nixos/nixos-wsl-admin-runbook.html) - 2026-11-13
+
 [Loadable modules for a custom WSL2 kernel: a `modules.vhdx` and one `.wslconfig` line](https://til.housni.eu/linux/wsl2-kernel-modules-vhdx.html) - 2026-11-10
 
 [Building a custom WSL2 kernel on GitHub Actions: `KCFLAGS`, not `CFLAGS`](https://til.housni.eu/linux/wsl2-kernel-on-github-actions.html) - 2026-11-10
@@ -43,8 +45,6 @@ More [releases](https://github.com/abdelhousni?tab=repositories)
 [How the lablabs.rke2 Ansible role upgrades an RKE2 cluster, node by node](https://til.housni.eu/kubernetes/rke2-upgrade-with-the-lablabs-rke2-role.html) - 2026-11-08
 
 [A liveness probe restarts a container, a readiness probe only takes it out of the Service](https://til.housni.eu/kubernetes/liveness-readiness-startup-probes.html) - 2026-11-08
-
-[Cleanly stopping an RKE2 node for planned maintenance](https://til.housni.eu/kubernetes/rke2-node-maintenance-drain-reboot.html) - 2026-11-08
 <!-- tils ends -->
 More on [My technical blog https://til.housni.eu](https://til.housni.eu/)
 </td></tr></table>
